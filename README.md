@@ -5,3 +5,4 @@
 - 📫 bllose2018@gmail.com
 
 # 我的技术栈
+![jishuzhan](https://github.com/Bllose/LearnStudy/blob/main/tech20220219082310.png)
